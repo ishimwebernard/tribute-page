@@ -1,0 +1,24 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.centered {
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+#img {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+#img-caption {
+    text-align: center;
+    width: 100%;
+}
+#img-div {
+    place-items: center;
+}
+#tribute-info{
+    padding: 6rem;
+}
