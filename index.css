@@ -22,3 +22,17 @@
 #tribute-info{
     padding: 6rem;
 }
+#date{
+    background-color:rgb(224, 219, 219);
+    
+    padding-left: 12rem;
+    padding-right: 12rem;
+    width:auto;
+
+}
+#paragraph{
+    padding-top: 3rem;
+    padding-left: 12rem;
+    padding-right: 12rem;
+    font-family:'Times New Roman', Times, serif;
+}
